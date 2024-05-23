@@ -4,7 +4,7 @@ Dự án này nhằm mục đích xây dựng một hệ thống phân loại h�
 
 ## Tổng quan
 
-![Uploading Screenshot 2024-05-23 103553.png…]()
+![Screenshot 2024-05-23 103553](https://github.com/phamthikimdung/DATA_SUMMARIZATION/assets/169218029/833915d2-cd5b-4f4c-a61c-97f3b5cae974)
 
 
 Dự án bao gồm các bước sau:
