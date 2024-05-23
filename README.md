@@ -4,6 +4,9 @@ Dự án này nhằm mục đích xây dựng một hệ thống phân loại h�
 
 ## Tổng quan
 
+![Uploading Screenshot 2024-05-23 103553.png…]()
+
+
 Dự án bao gồm các bước sau:
 
 1. **Xây dựng Mô hình**: Trong tệp Jupyter Notebook `training.ipynb`, chúng ta đã xây dựng một mô hình phân loại hình ảnh sử dụng TensorFlow và Keras. Mô hình này được đào tạo trên tập dữ liệu về các loại bệnh lá của cây khoai.
